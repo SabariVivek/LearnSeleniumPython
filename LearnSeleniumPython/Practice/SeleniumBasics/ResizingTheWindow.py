@@ -1,0 +1,9 @@
+from selenium import webdriver
+
+# Resizing the Browsers...
+webdriver.Chrome().maximize_window()  # Way 1...
+driver = webdriver.Chrome()
+
+driver.maximize_window()  # Way 2...
+driver.fullscreen_window()
+driver.minimize_window()

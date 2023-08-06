@@ -1,0 +1,9 @@
+# Command --> pip install selenium
+
+# Why Selenium?
+    * Open Source
+    * Supports Multiple OS
+    * Supports Multiple Browsers
+    * Supports Multiple Languages
+
+# Default Page Load Timeout for web pages is 5 min...
